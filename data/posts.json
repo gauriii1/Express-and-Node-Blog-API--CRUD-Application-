@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "First Post",
+    "content": "Hello World!",
+    "userId": 1
+  },
+  {
+    "id": 2,
+    "title": "Haunting Adeline",
+    "content": "horror story",
+    "userId": 3
+  }
+]
